@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+
+:root{
+    --color-background: #f0f0f0;
+    --color-text: #333;
+    --color-border: #ccc;
+    --color-placeholder: #777;
+    --color-primary: #007bff;
+    --color-primary-hover: #0056b3;
+    --color-link: #1a73e8;
+    --color-divider: #ddd;
+    --color-social-hover: #f0f0f0;
+    --color-floating-label: #5f6368;
+    --color-white: #fff;
+}
